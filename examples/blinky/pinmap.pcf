@@ -1,0 +1,19 @@
+#set_io --warn-no-port led1 B5
+#set_io --warn-no-port led2 B4
+#set_io --warn-no-port led3 A2
+#set_io --warn-no-port led4 A1
+#set_io --warn-no-port led5 C5
+#set_io --warn-no-port led6 C4
+#set_io --warn-no-port led7 B3
+#set_io --warn-no-port led8 C3
+#set_io --warn-no-port hwclk J3
+
+set_io led1  B5
+set_io led2  B4
+set_io led3  A2
+set_io led4  A1
+set_io led5  B16
+set_io led6  C16
+set_io led7  D16
+set_io led8  E16
+set_io hwclk J3
